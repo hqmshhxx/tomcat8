@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/ucas/software/tomcat-7.0.64/apache-tomcat-8.0.26-src/eclipse-tomcat8/org.eclipse.jdt.core_3.11.0.v20150602-1242.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/ucas/software/tomcat-7.0.64/apache-tomcat-8.0.26-src/eclipse-tomcat8/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="lib" path="/home/ucas/software/tomcat-7.0.64/apache-tomcat-8.0.26-src/tomcat-build-libs/easymock-3.2/easymock-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/ucas/software/tomcat-7.0.64/apache-tomcat-8.0.26-src/eclipse-tomcat8/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/home/ucas/software/tomcat-7.0.64/apache-tomcat-8.0.26-src/eclipse-tomcat8/ant.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
